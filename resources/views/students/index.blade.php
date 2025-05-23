@@ -38,6 +38,7 @@
                                     <th>Last Name</th>
                                     <th>Birthday</th>
                                     <th>Zip</th>
+                                    <th>Action</th>
                                 </tr>
                             </thead>
 
